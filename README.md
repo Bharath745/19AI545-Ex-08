@@ -1,4 +1,4 @@
-# Ex-08-Create-a-BMI-Calculator-using-React
+# Ex-13-Create-a-BMI-Calculator-using-React
 ## AIM:-
 To create react app to develop a complete BMI Calculator application.
 
